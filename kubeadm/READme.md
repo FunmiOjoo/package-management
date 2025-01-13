@@ -26,7 +26,7 @@ sudo -i
 # copy this script and run in all master and worker nodes
 #i1) Switch to root user [ sudo -i]
 
-sudo hostnamectl set-hostname  worker1
+sudo hostnamectl set-hostname  worker2
 #sudo -i
 
 #2) Disable swap & add kernel settings
