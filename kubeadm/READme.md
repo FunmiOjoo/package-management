@@ -17,7 +17,7 @@
 ## Assign hostname &  login as ‘root’ user because the following set of commands need to be executed with ‘sudo’ permissions.
 ```sh
 sudo hostnamectl set-hostname master
-sudo -i
+#sudo -i
 ```
 
 ``` sh
